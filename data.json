@@ -1,0 +1,110 @@
+[
+  {
+    "Incident": "Las Vegas",
+    "Year": 2017,
+    "Deaths": 58,
+    "Injures": 851
+  },
+  {
+    "Incident": "Orlando nightclub",
+    "Year": 2016,
+    "Deaths": 49,
+    "Injures": 53
+  },
+  {
+    "Incident": "Virgina Tech",
+    "Year": 2007,
+    "Deaths": 32,
+    "Injures": 23
+  },
+  {
+    "Incident": "Sandy Hook Elementary School",
+    "Year": 2012,
+    "Deaths": 27,
+    "Injures": 2
+  },
+  {
+    "Incident": "Sutherland spring church",
+    "Year": 2017,
+    "Deaths": 26,
+    "Injures": 20 
+  },
+  {
+    "Incident": "El Paso",
+    "Year": 2019,
+    "Deaths": 22,
+    "Injures": 24
+  },
+  {
+    "Incident": "Stoneman Douglas High School",
+    "Year": 2018,
+    "Deaths": 17,
+    "Injures": 17
+  },
+  {
+    "Incident": "San Bernardino",
+    "Year": 2015,
+    "Deaths": 14,
+    "Injures": 24
+  },
+  {
+    "Incident": "Fort Hood",
+    "Year": 2009,
+    "Deaths": 14,
+    "Injures": 32
+  },
+  {
+    "Incident": "Columbine High School",
+    "Year": 1999,
+    "Deaths": 13,
+    "Injures": 24
+  },
+  {
+    "Incident": "Binghamton",
+    "Year": 2009,
+    "Deaths": 13,
+    "Injures": 4
+  },
+  {
+    "Incident": "Aurora theater",
+    "Year": 2012,
+    "Deaths": 12,
+    "Injures": 70
+  },
+  {
+    "Incident": "Washington Navy Yard",
+    "Year": 2013,
+    "Deaths": 12,
+    "Injures": 8
+  },
+  {
+    "Incident": "Thousand Oaks",
+    "Year": 2018,
+    "Deaths": 12,
+    "Injures": 25
+  },
+  {
+    "Incident": "Virgina Beach",
+    "Year": 2019,
+    "Deaths": 12,
+    "Injures": 5
+  },
+  {
+    "Incident": "Pittsburgh synagogue",
+    "Year": 2018,
+    "Deaths": 11,
+    "Injures": 6
+  },
+  {
+    "Incident": "Geneva County",
+    "Year": 2009,
+    "Deaths": 10,
+    "Injures": 6
+  },
+  {
+    "Incident": "Santa Fee High School",
+    "Year": 2018,
+    "Deaths": 10,
+    "Injures": 14
+  }
+  ]
