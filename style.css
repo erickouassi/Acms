@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  background: white;
+}
+#title {
+  text-align: center;
+}
+.doping {
+  fill: red;
+}
+
+.not-doping {
+  fill: green;
+}
+
+#tooltip {	
+    position: absolute;			
+    padding: 10px;				
+    font: 12px sans-serif;		
+    background: snow;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+.dot{
+  stroke: black;
+}
